@@ -1,3 +1,4 @@
+该仓库的pom.xml是在win11下执行成功的
 在线笔记:https://www.yuque.com/zhangyang.com/tuiv0m/eitgt63cqhgegyg2
 windows执行demo前置
 1. GraalVM
